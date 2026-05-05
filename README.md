@@ -1,6 +1,6 @@
-![](assets/saturn.png)
-
 # SolariTTY
+
+![](assets/saturn.png)
 
 Reach the Stars.
 
